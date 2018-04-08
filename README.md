@@ -8,6 +8,8 @@
 ### Prerequisites
 * Knex CLI - `npm install -g knex` or `yarn global add knex`.
 * Nodemon CLI - `npm install -g nodemon` or `yarn global add nodemon`.
+* Concurrently - `npm install -g concurrently` or `yarn global add concurrently`.
+
 
 ### Starting
 Run `npm run dev` or `yarn dev` in the root directory.
